@@ -1,0 +1,23 @@
+// PFC-enriched genes
+// From https://maayanlab.cloud/Harmonizome/gene_set/orbital+frontal+cortex_13+pcw_M_12820/Allen+Brain+Atlas+Developing+Human+Brain+Tissue+Gene+Expression+Profiles+by+RNA-seq
+Symbol	Name	Standardized Value 
+CTNNBL1	catenin, beta like 1	1.68326
+FAHD1	fumarylacetoacetate hydrolase domain containing 1	1.67877
+SLC5A3	solute carrier family 5 (sodium/myo-inositol cotransporter), member 3	1.64488
+// GK3P	glycerol kinase 3 pseudogene	1.59689
+ZNF35	zinc finger protein 35	1.55858
+DNAJC14	DnaJ (Hsp40) homolog, subfamily C, member 14	1.55694
+// C16ORF96	chromosome 16 open reading frame 96	1.55444
+CSTF2T	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa, tau variant	1.53988
+ZNF773	zinc finger protein 773	1.53049
+TRMT61B	tRNA methyltransferase 61B	1.52505
+SIAH1	siah E3 ubiquitin protein ligase 1	1.50076
+SNIP1	Smad nuclear interacting protein 1	1.48439
+FASTKD5	FAST kinase domains 5	1.46488
+RPL34-AS1	RPL34 antisense RNA 1 (head to head)	1.46114
+MMADHC	methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria	1.45688
+CHMP1B	charged multivesicular body protein 1B	1.45057
+LINC00535	long intergenic non-protein coding RNA 535	1.43737
+MB21D2	Mab-21 domain containing 2	1.41518
+ZNF772	zinc finger protein 772	1.39089
+LRRC59	leucine rich repeat containing 59	1.38262

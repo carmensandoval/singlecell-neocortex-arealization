@@ -1,0 +1,21 @@
+celltype	cluster_color	marker
+cr	darkgrey	RELN
+dividing	darkkhaki	TOP2A
+neuron	deepskyblue	NEUROD6
+neuron-newborn	#6ec3e2
+neuron-deeplayer	#2255c3
+neuron-upperlayer	#668cf4
+rg-org	#ffa357
+rg-vrg	#ffcc6c
+rg-trg	#ffc797
+interneuron	deeppink2	GAD2
+ipc	brown4	EOMES
+microglia	darkorchid1	C1QC
+oligo	cadetblue	OLIG2
+opc	cadetblue	OLIG2
+outlier	darkslateblue	NA
+radialglia	darkorange	HES1
+rg	darkorange	HES1
+endo	blanchedalmond	CLDN5
+astrocyte	purple	AQP4
+

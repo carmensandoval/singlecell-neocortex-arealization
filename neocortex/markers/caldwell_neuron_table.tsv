@@ -1,0 +1,110 @@
+Gene	Organism	Expression Pattern	Mouse Knockout Cortical Phenotype	Relevant References
+AUTS2	human; mouse	frontal cortex	neonatal lethal in mouse; defects in neuronal migration, axonal elongation, and neuritogenesis in mouse embryos.	Bedogni et al., 2010a, Bedogni et al., 2010b, Hori et al., 2014, Srinivasan et al., 2012
+//BCL6	mouse	somatosensory cortex at birth; rostral in adulthood.	unknown	Leamey et al., 2008
+BHLHE22	mouse	(BHLHB5) postmitotic neurons of primary sensory areas (visual, somatosensory, and auditory cortex) layers II–V	aberrant gene expression and structural organization of somatosensory and caudal motor cortices	Joshi et al., 2008
+CBLN2	human	high rostro-caudal gradient	unknown	Lambert et al., 2011
+//C13ORF38
+CCDC169
+CCDC169-SOHLH2	human	high expression in temporal lobe	unknown	Pletikos et al., 2014
+// CBLN2	human; mouse	high-to-low rostro-caudal gradient	unknown	Johnson et al., 2009, Miura et al., 2006
+CDH6	mouse	high-to-low caudal-rostral gradient in postmitotic neurons	unknown	Terakawa et al., 2013
+CDH8	ferret; human; macaque; mouse	frontal cortex	autism-like behavior; reduced neuronal complexity	Bernier et al., 2014, Friedman et al., 2015, de Juan Romero et al., 2015
+CLMP	human	high-to-low rostro-caudal in human; no areal differences in macaque	unknown	Pletikos et al., 2014
+CNTN4	human	high rostro-caudal gradient	unknown	Lambert et al., 2011
+CNTNAP2	human	high-to-low rostro-caudal gradient	reduced spine density and levels of GluA1 of AMPA receptors in spines	Johnson et al., 2009, Lambert et al., 2011, Varea et al., 2015
+CPNE8	human	frontal cortex, upper layer excitatory neurons	unknown	Lambert et al., 2011, Nowakowski et al., 2017
+CRYM	mouse	high-to-low caudal-rostral gradient	unknown	Bedogni et al., 2010b, Leamey et al., 2008
+CUX1	mouse	higher in somatosensory than in motor cortex in layers 2–4	aberrant dendritic morphology of upper-layers projection neurons	Cubelos et al., 2015, Nieto et al., 2004
+DIAPH3	mouse	subcerebral projection neurons of the motor cortex	unknown	Arlotta et al., 2005
+DKK3	mouse	visual cortex	no obvious phenotype in cortex	Barrantes et al., 2006, Leamey et al., 2008
+DUSP6	mouse	somatosensory cortex	unknown	Leamey et al., 2008
+EOMES	ferret; human	high-to-low caudal-rostral gradient; no gradient is observed in mouse	microcephaly and behavioral defects; reduction of upper layer projection neurons	Arnold et al., 2008, de Juan Romero et al., 2015, Nowakowski et al., 2017
+EPHA3	macaque	high-to-low caudal-rostral gradient in macaque subventricular and intermediate zones	no obvious phenotype	Donoghue and Rakic, 1999, Vaidya et al., 2003
+EPHA5	mouse	somatosensory cortex	formation of abnormal cell aggregates and abnormal spine morphology	Cooper et al., 2009, Das et al., 2016
+EPHA6	mouse; macaque	cortical plate of developing occipital cortex	formation of abnormal cell aggregates and abnormal spine morphology	Bedogni et al., 2010b, Das et al., 2016, Donoghue and Rakic, 1999
+EPHA7	macaque; mouse	high-to-low rostro-caudal in mouse; caudal-rostral gradient in macaque early development (E65)	dendrites are longer and more complex	Clifford et al., 2014, Donoghue and Rakic, 1999
+EMX2	human; mouse	high-to-low medial-lateral gradient	reduction of caudal-medial identity	Gulisano et al., 1996, Ip et al., 2010, Mallamaci and Stoykova, 2006
+FGF17	mouse	frontal cortex	reduction of dorsal frontal cortex; rostral shift in cortical sensory areas	Cholfin and Rubenstein, 2007
+FGFR2	ferret; mouse	high-to-low caudal-rostral gradient in mouse ventricular zone and ferret outer subventricular zone	reduction of projection neurons in medial prefrontal cortex observed in conditional knockout in radial glia cells	de Juan Romero et al., 2015, Stevens et al., 2010
+FGFR3	ferret; human; mouse	high-to-low caudal-rostral gradient	reduction of cortical volume	de Juan Romero et al., 2015, Moldrich et al., 2011, Nowakowski et al., 2017
+FLRT3	mouse	visual cortex	altered distribution of projection neurons during development	Leamey et al., 2008, Seiradake et al., 2014
+HCRTR2	human	frontal cortex, deep-layer excitatory neurons	unknown	Nowakowski et al., 2017
+ID2	mouse	in intermediate and caudal cortex is expressed in layer 5; in frontal cortex is expressed in layer 2/3	unknown	Bulfone et al., 1995
+IGFBP4	mouse	subcerebral projection neurons of the motor cortex	unknown	Arlotta et al., 2005
+CADM1
+//IGSF4A	mouse	visual cortex	unknown	Leamey et al., 2008
+KLHL29
+//KBTBD9	mouse	somatosensory cortex	unknown	Leamey et al., 2008
+LHX2	ferret; mouse	high-to-low caudomedial-rostrolateral gradient during development	barrel cores and barrel walls in somatosensory cortex fail to form	Chou et al., 2009, de Juan Romero et al., 2015, Shetty et al., 2013
+LIX1	mouse	subcerebral projection neurons of the visual cortex	unknown	Moeller et al., 2002
+LMO3	mouse	parietal cortex	behavioral defects	Bulchand et al., 2003, Savarese et al., 2014
+LMO4	human; mouse	postmitotic neurons of motor cortex and higher order sensory areas	disrupted molecular identity and connectivity of rostral motor cortex	Cederquist et al., 2013, Lambert et al., 2011
+LUZP2	mouse	somatosensory cortex	unknown	Leamey et al., 2008
+NHLH1	mouse	high-to-low caudal-rostral gradient	no obvious phenotype	Elsen et al., 2013, Krüger and Braun, 2002
+NRP2
+//NPN2	mouse	high-to-low caudal-rostral gradient	subcerebral neurons of the visual cortex fail to prune their axons	Low et al., 2008
+NPY	human	high-to-low caudal-rostral gradient; no specificity in mouse	unknown	Johnson et al., 2009
+RORB
+//NR1F2	ferret; mouse; rat	high-to-low rostro caudal gradient	unknown	Miyashita-Lin et al., 1999, Rowell et al., 2010, Schaeren-Wiemers et al., 1997
+NR2F1	human; mouse	high-to-low caudal-rostral gradient in cortical progenitors and postmitotic neurons	expansion of motor cortex at expense of sensory areas	Armentano et al., 2006, Nowakowski et al., 2017
+NR2F2	human; macaque	high expression in temporal lobe	unknown	Pletikos et al., 2014
+NR4A2	human	parieto-temporal cortex	unknown	Lambert et al., 2011
+TENM1
+//ODZ1	mouse	high-to-low rostro caudal gradient in layer 4 and subplate neurons	unknown	Li et al., 2006
+TENM2
+//ODZ2	human; mouse	layer 5 neurons of visual cortex	binocular circuits fail to form	Leamey et al., 2008, Li et al., 2006, Nowakowski et al., 2017, Young et al., 2013b
+TENM3
+//ODZ3	mouse	deep-layer neurons of the visual cortex	formation of eye dominance domains in the visual cortex	Leamey et al., 2008, Li et al., 2006, Merlin et al., 2013
+TENM4
+//ODZ4	mouse	high-to-low caudal-rostral gradient	hypomyelination of the CNS	Leamey et al., 2008, Li et al., 2006, Suzuki et al., 2012
+NGFR
+//P75	rat; mouse	high-to-low caudal-rostral gradient	increased excitability of neurons; enhanced cholinergic innervation into visual cortex	VON Bohlen und Halbach and VON Bohlen und Halbach, 2016; Gibon et al., 2015, Mackarehtschian et al., 1999, Mallamaci et al., 2000
+PAX6	mouse	high-to-low rostro-caudal latero-medial gradient	perinatal lethal; conditional mutant has a dramatic decrease of upper-layer neurons, increase of deep-layer neurons reaching the marginal zone, and increased number of oligodendrocytes; phenotype is particularly pronounced in frontal cortex	Stoykova et al., 2000, Tuoc et al., 2009
+PCDH8	mouse	high-to-low caudal-rostral gradient; no specificity in mouse	no obvious phenotype	Bedogni et al., 2010b, Yamamoto et al., 2000
+PENK	human	high rostro-caudal gradient	unknown	Lambert et al., 2011
+PLXNA3	mouse	high-to-low caudal-rostral gradient early postnatally	no obvious defect; however, in double knockout with Plxa4, the pruning phenotype of Plxa4 is increased	Low et al., 2008
+PLXNA4	mouse	high-to-low caudal-rostral gradient early postnatally	subcerebral neurons of the visual cortex fail to prune their axons	Low et al., 2008
+PLXND1	macaque; mouse	high-to-low caudal-rostral gradient in postmitotic neurons	hem-derived Cajal-Retzius cells reach more dorsal neocortical regions	Bribián et al., 2014, Watakabe et al., 2006
+SATB2	human	high-to-low rostro-caudal, co-expressing with BCL11B in deep layers until sharp boundary segregates expression with SATB2 in upper layers	upper layer callosal projection neurons fail to form	Alcamo et al., 2008, Britanova et al., 2008, Nowakowski et al., 2017
+SEMA3E	mouse; macaque	high-to-low caudal-rostral gradient in postmitotic neurons	hem-derived Cajal-Retzius cells reach more dorsal neocortical regions	Bribián et al., 2014, Watakabe et al., 2006
+SLN	human	high rostro-caudal gradient	unknown	Lambert et al., 2011
+SOX9	human	parieto-temporal cortex	unknown	Lambert et al., 2011
+SP8	mouse	high-to-low anterior-medial to posterior-lateral gradient in cortical progenitors	unknown	Sahara et al., 2007
+TBR1	mouse	high-to-low rostro-caudal	expression of caudal genes in frontal cortex	Bedogni et al., 2010b
+THBS1	human	high rostro-caudal gradient	unknown	Lambert et al., 2011
+TSHZ2	mouse	occipital cortex	unknown	Bedogni et al., 2010b
+USP6	mouse	somatosensory cortex	unknown	Leamey et al., 2008
+VSTM2L	human	high rostro-caudal gradient	unknown	Lambert et al., 2011
+WNT7B	human; macaque	high-to-low caudal-rostral gradient in postmitotic neurons	unknown	Ozair et al., 2018, Pletikos et al., 2014
+WSCD1	mouse	high-to-low rostro-caudal in layer 6 neurons and subplate	unknown	Bedogni et al., 2010b
+FGF8				
+SP8				
+FGF19				
+ETV1				
+ETV4				
+FGFR3
+// PFC-enriched genes
+// From https://maayanlab.cloud/Harmonizome/gene_set/orbital+frontal+cortex_13+pcw_M_12820/Allen+Brain+Atlas+Developing+Human+Brain+Tissue+Gene+Expression+Profiles+by+RNA-seq
+Symbol	Name	Standardized Value 
+CTNNBL1	catenin, beta like 1	1.68326
+FAHD1	fumarylacetoacetate hydrolase domain containing 1	1.67877
+SLC5A3	solute carrier family 5 (sodium/myo-inositol cotransporter), member 3	1.64488
+// GK3P	glycerol kinase 3 pseudogene	1.59689
+ZNF35	zinc finger protein 35	1.55858
+DNAJC14	DnaJ (Hsp40) homolog, subfamily C, member 14	1.55694
+// C16ORF96	chromosome 16 open reading frame 96	1.55444
+CSTF2T	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa, tau variant	1.53988
+ZNF773	zinc finger protein 773	1.53049
+TRMT61B	tRNA methyltransferase 61B	1.52505
+SIAH1	siah E3 ubiquitin protein ligase 1	1.50076
+SNIP1	Smad nuclear interacting protein 1	1.48439
+FASTKD5	FAST kinase domains 5	1.46488
+RPL34-AS1	RPL34 antisense RNA 1 (head to head)	1.46114
+MMADHC	methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria	1.45688
+CHMP1B	charged multivesicular body protein 1B	1.45057
+LINC00535	long intergenic non-protein coding RNA 535	1.43737
+MB21D2	Mab-21 domain containing 2	1.41518
+ZNF772	zinc finger protein 772	1.39089
+LRRC59	leucine rich repeat containing 59	1.38262
+// OTHERS (Lambert et al., 2011)
+PENK

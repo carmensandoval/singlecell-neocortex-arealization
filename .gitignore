@@ -1,0 +1,16 @@
+data/
+*.code-workspace
+*.h5ad
+*.h5Seurat
+*.h5seurat
+*.Rmd
+*.rmd
+*.RData
+*.Rds 
+*.rds
+*.pdf
+*.png 
+*.jpg
+*.html
+*.js 
+*.nb
